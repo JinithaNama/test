@@ -5,5 +5,5 @@ QA modification
 =======
 Fixing bug #
 Another fix on bug #1234
-Fixing a bug from production
->>>>>>> Stashed changes
+
+Adding some more code or information
