@@ -1,2 +1,3 @@
 beginner for learning Github via command prompt
 Should learn to play with commands
+QA modification
