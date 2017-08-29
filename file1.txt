@@ -1,2 +1,9 @@
 beginner for learning Github via command prompt
 Should learn to play with commands
+<<<<<<< Updated upstream
+QA modification
+=======
+Fixing bug #
+Another fix on bug #1234
+Fixing a bug from production
+>>>>>>> Stashed changes
